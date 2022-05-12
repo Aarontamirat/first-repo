@@ -1,2 +1,2 @@
 # first-repo
-very first new git hub repository
+very first new git hub repository.
